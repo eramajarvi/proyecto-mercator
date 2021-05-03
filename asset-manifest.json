@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/proyecto-mercator/static/css/main.c6336118.chunk.css",
+    "main.js": "/proyecto-mercator/static/js/main.ec9763ab.chunk.js",
+    "main.js.map": "/proyecto-mercator/static/js/main.ec9763ab.chunk.js.map",
+    "runtime-main.js": "/proyecto-mercator/static/js/runtime-main.402057b9.js",
+    "runtime-main.js.map": "/proyecto-mercator/static/js/runtime-main.402057b9.js.map",
+    "static/js/2.1f3d6d27.chunk.js": "/proyecto-mercator/static/js/2.1f3d6d27.chunk.js",
+    "static/js/2.1f3d6d27.chunk.js.map": "/proyecto-mercator/static/js/2.1f3d6d27.chunk.js.map",
+    "static/js/3.9f498f3f.chunk.js": "/proyecto-mercator/static/js/3.9f498f3f.chunk.js",
+    "static/js/3.9f498f3f.chunk.js.map": "/proyecto-mercator/static/js/3.9f498f3f.chunk.js.map",
+    "index.html": "/proyecto-mercator/index.html",
+    "static/css/main.c6336118.chunk.css.map": "/proyecto-mercator/static/css/main.c6336118.chunk.css.map",
+    "static/js/2.1f3d6d27.chunk.js.LICENSE.txt": "/proyecto-mercator/static/js/2.1f3d6d27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.402057b9.js",
+    "static/js/2.1f3d6d27.chunk.js",
+    "static/css/main.c6336118.chunk.css",
+    "static/js/main.ec9763ab.chunk.js"
+  ]
+}
