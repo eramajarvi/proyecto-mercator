@@ -2,6 +2,7 @@
   "name": "proyecto-mercator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://eramajarvi.github.io/proyecto-mercator",
   "dependencies": {
     "@fluentui/example-data": "^8.2.0",
     "@fluentui/react": "^7.169.0",
@@ -13,6 +14,7 @@
     "@types/node": "^12.20.11",
     "@types/react": "^17.0.4",
     "@types/react-dom": "^17.0.3",
+    "gh-pages": "^3.1.0",
     "gridjs": "^4.0.0",
     "gridjs-react": "^4.0.0",
     "leaflet": "^1.7.1",
@@ -24,6 +26,8 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
