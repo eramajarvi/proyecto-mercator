@@ -1,0 +1,65 @@
+{
+    "canchas": [
+        {
+            "type": "Cancha",
+            "properties": {
+                "PARK_ID": 1,
+                "NAME": "Cancha de fútbol Las Granjas",
+                "DESCRIPTION": ["Borgotaba. Los viscoleantes toves, rijando en la solea, tadralaban... Misébiles estaban los borgoves y algo momios los verdos bratchilbaban.","Cocillaba el día y las tovas agilimosas giroscopaban y barrenaban en el larde. Todos debirables estaban los burgovos, y silbramaban las alecas rastas."],
+                "CLUBES": [["Semillitas"], ["Calidad"], ["Revelación"], ["Atlas Femenino"], ["PSG Femenino"], ["Rugby"]],
+                "COBERTURA": [
+                    ["4 a 9 años", 160],
+                    ["10 a 14 años", 150],
+                    ["15 a 24 años", 170],
+                    ["12 a 15 años", 70],
+                    ["16 a 20 años", 20],
+                    ["24 a 64 años", 200],
+                    ["65 a 85 años", 50],
+                    ["Total", 730]
+                ],
+                "IMAGES": ["https://lh5.googleusercontent.com/p/AF1QipN_fBj0_9wzIedBBUUXvbVh2xd43aW4jXagCPGZ=w1200-h1200-p-k-no", "https://lh5.googleusercontent.com/p/AF1QipPmqLZ-6p3FrzRNd9Pc4eP45a2fOWSQP47rc-du=w397-h298-k-no"]
+            },
+
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [ 
+                    [7.072283771240084, -73.83164704127115],
+                    [7.073118720004407, -73.83097354244464],
+                    [7.072770772148124, -73.83051218957054],
+                    [7.071925726841051, -73.83120225892017]
+                ]
+            }
+        },
+
+        {
+            "type": "Cancha",
+            "properties": {
+                "PARK_ID": 2,
+                "NAME": "Cancha de fútbol Primero de Mayo",
+                "DESCRIPTION": ["Blandiendo su montante vorpalino al monstro largo tiempo persiguió... Bajo el árbol Tamtam luego se vino y un rato cavilando se quedó.","-Y, pues, ¿es verdad que has terminado con el Guirigay? ¡Ven a mis brazos entonces, mi bendito hijo de día! Oh, promifortunoso día, sí... ¡Aleluya! ¡Alelay! Armonivibró en medio de su trompetizul alegría."],
+                "CLUBES": [["Rojo"], ["Azul"], ["Alfa"], ["Power Rangers"], ["Chicas Superpoderosas"], ["Bibliotecarias"]],
+                "COBERTURA": [
+                    ["4 a 9 años", 160],
+                    ["10 a 14 años", 150],
+                    ["15 a 24 años", 170],
+                    ["12 a 15 años", 70],
+                    ["16 a 20 años", 20],
+                    ["24 a 64 años", 200],
+                    ["65 a 85 años", 50],
+                    ["Total", 730]
+                ],
+                "IMAGES": ["https://lh5.googleusercontent.com/p/AF1QipMJ106EL4RzG7GoGGi7oWpw5fAonfidWD4qhiQi=s773-k-no", "https://lh5.googleusercontent.com/p/AF1QipMI_GJGncHBkCR2DuKeru-VORvIwaJQU3ZOPKB3=s1031-k-no"]
+            },
+
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [ 
+                    [7.065335535318555, -73.83936368010703],
+                    [7.06538344846889, -73.83834333301299],
+                    [7.064783039359288, -73.83829538507561],
+                    [7.064739282379521, -73.83934758685291]
+                ]
+            }
+        }
+    ]
+}
